@@ -1,0 +1,2 @@
+# This project only uses Python built-in modules (json, os, datetime).
+# No external dependencies are required to run this application.

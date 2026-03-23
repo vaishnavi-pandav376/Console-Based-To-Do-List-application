@@ -1,6 +1,6 @@
 # 📝 To-Do List (Python Console App)
 
-A simple yet powerful **console-based To-Do List application** built using Python.
+A simple yet powerful **Console-Based To-Do List application** built using Python.
 This project helps manage daily tasks with features like priority, deadlines, and task tracking.
 
 ---
